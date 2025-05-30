@@ -13,7 +13,7 @@ The app allows users to:
 
 ##  How to Run This Project
 
-### Clone this repository
+### 1. Clone this repository
 
 
 git clone git@github.com:Shweta1572/youtube-streamlit-project.git
